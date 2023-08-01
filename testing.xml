@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+	<listeners>
+		<listener  class-name="com.qa.listeners.TestListener" />
+	</listeners>
+  <test name="Test">
+	<parameter name="platformName" value="Android" />  
+	<parameter name="uDID" value="emulator-5554" />
+	<parameter name="platformVersion" value="14" />
+	<parameter name="deviceName" value="pixel_6" />
+    <classes>
+      <class name="com.qa.tests.LoginTest"/>
+       <class name="com.qa.tests.ProductsTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

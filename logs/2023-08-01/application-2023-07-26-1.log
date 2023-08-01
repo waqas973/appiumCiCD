@@ -1,0 +1,12 @@
+[ERROR] 2023-07-26 16:30:15.0022 com.qa.BaseTest:148 - This is error
+[WARN ] 2023-07-26 16:30:15.0041 com.qa.BaseTest:149 - This is error
+[INFO ] 2023-07-26 16:30:15.0042 com.qa.BaseTest:150 - This is error
+[DEBUG] 2023-07-26 16:30:15.0043 com.qa.BaseTest:151 - This is error
+[ERROR] 2023-07-26 16:56:11.0184 com.qa.BaseTest:156 - This is error
+[WARN ] 2023-07-26 16:56:11.0190 com.qa.BaseTest:157 - This is error
+[INFO ] 2023-07-26 16:56:11.0191 com.qa.BaseTest:158 - This is error
+[DEBUG] 2023-07-26 16:56:11.0191 com.qa.BaseTest:159 - This is error
+[ERROR] 2023-07-26 17:26:20.0369 com.qa.BaseTest:157 - This is error
+[WARN ] 2023-07-26 17:26:20.0377 com.qa.BaseTest:158 - This is error
+[INFO ] 2023-07-26 17:26:20.0378 com.qa.BaseTest:159 - This is error
+[DEBUG] 2023-07-26 17:26:20.0379 com.qa.BaseTest:160 - This is error

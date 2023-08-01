@@ -1,0 +1,4 @@
+[ERROR] 2023-07-24 17:04:23.0224 com.qa.BaseTest:126 - This is error
+[WARN ] 2023-07-24 17:04:23.0229 com.qa.BaseTest:127 - This is error
+[INFO ] 2023-07-24 17:04:23.0230 com.qa.BaseTest:128 - This is error
+[DEBUG] 2023-07-24 17:04:23.0231 com.qa.BaseTest:129 - This is error
